@@ -1,2 +1,1 @@
-# naagii
-naagii
+lab6  code 
